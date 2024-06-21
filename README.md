@@ -5,7 +5,7 @@ Medical Insurance has become a part of the common man's life given the time of p
 
 In this challenge, you need to read the data from a CSV(Comma Separated Value) file that is insurance.csv file filter the required data to write it another file
 
-The dataset​
+The dataset​.
 
 age: age of primary beneficiary​
 
