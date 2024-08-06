@@ -4,7 +4,7 @@
 
 Medical Insurance has become a part of the common man's life given the time of pandemic we are living in. The data that we have helps analysts allocate suitable policy to a valued customer. Data cleaning is a major part before any analysis can be performed..
 
-In this challenge, you need to read the data from a CSV(Comma Separated Value) file that is insurance.csv file filter the required data to write it another file.
+In this challenge, you need to read the data from a CSV(Comma Separated Value) file that is insurance.csv file filter the required data to write it another file..
 
 The dataset​. 
 
